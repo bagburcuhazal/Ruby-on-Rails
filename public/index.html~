@@ -6,7 +6,12 @@
 </head>
 <body>
 	<h1>Merhaba, Ruby on Rails..</h1>
-	<p> Merhaba Dunya.. </p>
+	<p>Git versiyon sisteminde dal kullanımı</p>
+	<h1>Merhaba Uygulaması</h1>
+	<p>Bu depoda ruby on rails kitabımızda,rails ile merhaba uygulaması ve git versiyon kontrol sistemin anlatırken kullandığımız örnek uygulamaya ait dosyalar bulunmaktadır.</p>
+	</p>
+	<a href="/">&lt; Anasayfaya dön</a>
+	</p>
 </body>
 </html>
 

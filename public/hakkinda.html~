@@ -6,8 +6,7 @@
 </head>
 <body>
 	<h1>Hakkında</h1>
-	<p>Git versiyon sisteminde dal kullanımı</p>
-	a href="/">&lt; Anasayfaya dön</a>
-	</p>
+	<p>Bu sayfa git versiyon kontrol sisteminde dal kullanımının daha iyi anlaşılması amacıyla oluşturulmuştur.</p>
+	
 </body>
 </html>

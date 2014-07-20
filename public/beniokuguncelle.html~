@@ -1,17 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8" />
-	<title>Ruby on Rails'e Merhaba Uygulaması</title>
+	<meta charset="utf-8"/>
+	<title>Ruby on Rails Güncelleme</title>
+	
 </head>
-<body>
-	<h1>Merhaba, Ruby on Rails..</h1>
-	<p>Git versiyon sisteminde dal kullanımı</p>
+</body>
 	<h1>Merhaba Uygulaması</h1>
 	<p>Bu depoda ruby on rails kitabımızda,rails ile merhaba uygulaması ve git versiyon kontrol sistemin anlatırken kullandığımız örnek uygulamaya ait dosyalar bulunmaktadır.</p>
-	</p>
-	<a href="/">&lt; Anasayfaya dön</a>
-	</p>
+	
 </body>
 </html>
-
